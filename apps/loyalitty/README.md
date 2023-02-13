@@ -18,7 +18,7 @@ Integrated with [Gamou](https://github.com/vczb/gamou) App.
 1. Install dependencies
 
 ```bash
-  yarn install
+  npm install
 ```
 
 2. Add the environment variables
@@ -31,7 +31,7 @@ REACT_APP_STORAGE_ROOT_KEY=gamou-loyalitty
 3. Run the application
 
 ```bash
-  yarn start
+  npm run start
 ```
 
 4. Open the browser and go to `http://localhost:3002`
